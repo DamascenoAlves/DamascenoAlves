@@ -24,7 +24,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-{matheusd.alves@hotmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{matheusd.alves@hotmail.com})
-[![Linkedin: Matheus](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damascenoalves/)](https://www.linkedin.com/in/damascenoalves/)<br><br>
+[![Linkedin: Matheus](https://img.shields.io/badge/-DamascenoAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damascenoalves/)](https://www.linkedin.com/in/damascenoalves/)<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamascenoAlves)](https://github.com/DamascenoAlves/github-readme-stats)<br><br>
 
